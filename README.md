@@ -42,6 +42,14 @@ A scalable microservice for scheduling and managing jobs. This service provides 
    ```
 
 3. **Environment Variables:** Create a `.env` file in the root directory and set up your database and other configurations.
+   ```bash
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_USERNAME=your_username
+   DB_PASSWORD=your_password
+   DB_NAME=your_database_name
+   ```
+   Replace your_username, your_password, and your_database_name with your actual PostgreSQL credentials.
 
 4. **Run the Application:**
 
