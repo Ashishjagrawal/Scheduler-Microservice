@@ -11,7 +11,7 @@ import { Job } from './job/job.entity';
     port: parseInt(process.env.DB_PORT),
     username: process.env.DB_USERNAME,
     password: process.env.DB_PASSWORD,
-    database: process.env.DATABASE,
+    database: process.env.DB_NAME,
     entities: [Job],
     synchronize: true,
   }),
