@@ -69,4 +69,4 @@ For detailed API documentation, visit `http://localhost:3000/api-docs`.
 
 ## Scalability
 
-The application is designed with scalability in mind, capable of handling a large number of users, services, and API requests. For a detailed overview of the scalability strategies implemented, refer to the SCALABILITY.md document in the repository.
+The application is designed with scalability in mind, capable of handling a large number of users, services, and API requests. For a detailed overview of the scalability strategies implemented, refer to the [SCALABILITY.md](SCALABILITY.md) document in the repository.
