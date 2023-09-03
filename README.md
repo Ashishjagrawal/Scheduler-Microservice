@@ -64,6 +64,7 @@ A scalable microservice for scheduling and managing jobs. This service provides 
 - **List All Jobs:** `GET /jobs`
 - **Retrieve a Specific Job:** `GET /jobs/:id`
 - **Create a New Job:** `POST /jobs`
+- **Update a Job:** `PUT /jobs/:id`
 
 For detailed API documentation, visit `http://localhost:3000/api-docs`.
 
