@@ -31,8 +31,8 @@ A scalable microservice for scheduling and managing jobs. This service provides 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Ashishjagrawal/Scheduler-Microservice.git
+   cd Scheduler-Microservice
    ```
 
 2. **Install Dependencies:**
@@ -62,17 +62,3 @@ For detailed API documentation, visit `http://localhost:3000/api-docs`.
 ## Scalability
 
 The application is designed with scalability in mind, capable of handling a large number of users, services, and API requests. For more details on scalability strategies implemented, refer to the `SCALABILITY.md` document in the repository.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-You can customize this template further based on the specific details and features of your project. Once you've made the desired changes, save this content in a file named `README.md` in the root directory of your project.
-
-Would you like assistance with anything else?
