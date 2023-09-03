@@ -10,8 +10,6 @@ A scalable microservice for scheduling and managing jobs. This service provides 
 - [Setup and Installation](#setup-and-installation)
 - [API Endpoints](#api-endpoints)
 - [Scalability](#scalability)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
